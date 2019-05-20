@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:text="Hello world"
+    android:layout_marginTop="16dp"
+    android:layout_marginBottom="61dp"
+    android:layout_gravity="center"
+    android:fontFamily="@font/lato"
+    android:textColor="#000"
+    android:textSize="18sp">
+
+</TextView>

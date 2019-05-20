@@ -1,0 +1,133 @@
+﻿[
+    {
+        "title" : "Introduction",
+        "course": [
+            {
+                "value": [
+                    "Introduction",
+                    "Pour les chimistes, l'élément de base de la matière c'est l'atome. Absolument tous ce que existe est constitué d'atome",
+                    "fourniture_scolaire"
+                ],
+                "type": [
+                    "0",
+                    "1",
+                    "2"
+                ]
+            },
+            {
+                "value": [
+                    "Il existe un très grand nombre d'atome que on peut retrouver dans tableau périodique des éléments.",
+                    "tableau_periodique",
+                    "Ce tableau est issu des travaux du chimiste russe Mendeleïev qui à trouvé un moyen de classifier les atomes",
+                    "mendeleiev"
+                ],
+                "type": [
+                    "1",
+                    "2",
+                    "1",
+                    "2"
+                ]
+            },
+            {
+                "value": [
+                    "Dans la classification de Mendeleïev, les atomes sont identifié par un nom et une formule chimique",
+                    "image",
+                    " Et pour faire une représentation visuel d'un atome on utilise des sphères coloré",
+                    "couleurs"
+                ],
+                "type": [
+                    "1",
+                    "2",
+                    "1",
+                    "2"
+                ]
+            },
+            {
+                "value": [
+                    "Dans la nature on ne retrouve pas d'atome isolés. Les atomes se regroupent pour former des molécules",
+                    "molecules",
+                    "C'est ainsi que deux atomes d'hydrogènes et un atome d'oxygène fusionnent pour formé une molécule, la molécule d'eau",
+                    "eau",
+                    "Donc un verre d'eau pur est en faite constitué de un très grand nombre de molécule d'eau",
+                    "eau_pur"
+                ],
+                "type": [
+                    "1",
+                    "2",
+                    "1",
+                    "2",
+                    "1",
+                    "2"
+                ]
+            },
+            {
+                "value": [
+                    "L'eau du robinet n'est pas pur. Dans un verre d'eau du robinet on trouve plusieurs autres molécules issu d'élément chimique ayant servis à rendre l'eau potable",
+                    "eau_impur",
+                    "on peut rendre l'eau pur par un procédé chimique que l'on appelle la distillation",
+                    "distillation"
+                ],
+                "type": [
+                    "1",
+                    "2",
+                    "1",
+                    "2"
+                ]
+            },
+            {
+                "value": [
+                    "l'élément hydrogène est très utilisé dans l'industrie pour produire de l’énergie, fabriquer l'ammoniac des engrais etc",
+                    "hydrogen_car",
+                    " Dans la nature on ne retrouve pas d'hydrogènes pur mais on peut le retrouver dans un très grand nombre de molécule comme les hydrocarbure, l'eau, … . Dans la suite, nous allons voir comment produire de l'hydrogène à partir de l'eau grâce à un procédé que l'on appelle l'électrolyse de l'eau",
+                    "hydrogen"
+                ],
+                "type": [
+                    "1",
+                    "2",
+                    "1",
+                    "2"
+                ]
+            }
+        ],
+        "quizz": [
+            {
+                "question": "le symbole atomique de l'hydrogène ?",
+                "propositions": [
+                    "C",
+                    "H",
+                    "Th",
+                    "He"
+                ],
+                "reponse": "1"
+            },
+            {
+                "question": "La formule chimique de la molécule d'eau ?",
+                "propositions": [
+                    "H20",
+                    "CH<sub><small>4</small></sub>",
+                    "H<sub><small>2</small></sub>O",
+                    "H<sub><small>2</small></sub>"
+                ],
+                "reponse": "2"
+            },
+            {
+                "question": "La couleur de la sphère représentant l'atome de carbone",
+                "propositions": [
+                    "Rouge",
+                    "Noir",
+                    "Violet",
+                    "Rose"
+                ],
+                "reponse": "1"
+            },
+            {
+                "question": "L'eau du robinet est pur",
+                "propositions": [
+                    "Vrai",
+                    "Faux"
+                ],
+                "reponse": "1"
+            }
+        ]
+    }
+]

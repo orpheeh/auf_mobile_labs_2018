@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff200</color>
+    <color name="colorPrimaryDark">#ff7f27</color>
+    <color name="colorAccent">#b97a56</color>
+    <color name="colorChimie">#b83dba</color>
+    <color name="colorPesanteur">#0ed145</color>
+    <color name="colorElectricite">#ff7f27</color>
+    <color name="colorOptique">#3f48cc</color>
+
+</resources>

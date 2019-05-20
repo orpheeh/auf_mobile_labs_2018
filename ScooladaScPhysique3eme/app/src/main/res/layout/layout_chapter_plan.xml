@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/colorChimie"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="L'eau"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:textSize="21sp"
+            android:textStyle="bold"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+
+            android:layout_margin="8dp">
+
+            <Button
+                android:id="@+id/simulation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Simulation"
+                android:layout_margin="8dp"
+                android:background="@drawable/buttonstyle2"
+                android:textColor="#fff"
+                android:padding="8dp"/>
+
+            <Button
+                android:id="@+id/get_start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Commencer"
+                android:layout_margin="16dp"
+                android:background="@drawable/buttonstyle2"
+                android:textColor="#fff"
+                android:padding="8dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/part_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:gravity="left|center"
+        android:layout_margin="16dp">
+
+
+    </LinearLayout>
+
+</LinearLayout>
